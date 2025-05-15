@@ -28,7 +28,7 @@ Para compilar e executar o MediCalc, você precisará de:
 ### Clonando o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/medicalc.git
+git clone https://github.com/marconesdb/medicalc.git
 cd medicalc
 ```
 
